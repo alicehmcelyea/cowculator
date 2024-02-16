@@ -284,3 +284,7 @@ hr {
     line-height: normal;
 
 }
+
+button {
+    cursor: pointer;
+}
